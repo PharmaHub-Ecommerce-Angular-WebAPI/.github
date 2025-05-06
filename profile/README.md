@@ -24,7 +24,7 @@ PharmaHub allows pharmacies to create and manage their own online stores, while 
 
 | Layer      | Technology                                      |
 |------------|--------------------------------------------------|
-| Frontend   | Angular 14, TypeScript, Bootstrap, RxJS          |
+| Frontend   | Angular 18, TypeScript, Bootstrap, RxJS          |
 | Backend    | ASP.NET Core Web API, Entity Framework Core      |
 | Database   | Microsoft SQL Server                             |
 | Auth       | JWT, Role-Based Access, Email Confirmation       |
