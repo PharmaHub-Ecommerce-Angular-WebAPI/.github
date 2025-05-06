@@ -55,7 +55,7 @@ PharmaHub allows pharmacies to create and manage their own online stores, while 
 - Stripe and Cloudinary integrations
 - Connected to a deployed SQL Server database
 
-### 🎯 Frontend: [Angular 14 App](https://github.com/PharmaHub-Ecommerce-Angular-WebAPI/PharmaHub-Ecommerce-Angular)
+### 🎯 Frontend: [Angular 18 App](https://github.com/PharmaHub-Ecommerce-Angular-WebAPI/PharmaHub-Ecommerce-Angular)
 
 - Fully responsive UI for users and pharmacy owners
 - Angular guards, interceptors, and JWT token storage
